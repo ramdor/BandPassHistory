@@ -4,7 +4,7 @@
 
 Watch this video for all the info on how to use it : [HERE]()
 
-## Software to show FT8/FT4/etc bandpass history from WSJTx/JTDX
+## Software to show FT8/FT4/etc bandpass history from WSJT-X/JTDX
 
 Free Use Software Licence Agreement
 
